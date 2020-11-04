@@ -1,2 +1,3 @@
 # ahoj-svet
-skuska gitu
+###Nadpis  
+mal som  podla popisu napisat niečo o sebe
