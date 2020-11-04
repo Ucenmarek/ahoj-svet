@@ -1,3 +1,3 @@
 # ahoj-svet
-###Nadpis  
+## Nadpis veľký  
 mal som  podla popisu napisat niečo o sebe
